@@ -1,3 +1,56 @@
 .carousel-inner{
     border-radius: 20px;
 }
+.btn__contacto{
+    background-color: rgb(238, 238, 238);
+    border-color: rgb(182, 182, 182);
+}
+
+.ayudagrid{
+    width: 100%;
+    max-width: 1100px;
+    margin: auto;
+    margin-top: 60px;
+    margin-bottom: 450px;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-template-rows: 250px;
+    grid-gap: 7px;
+}
+.ayudagrid figure{
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    cursor: pointer;
+    position: relative;
+}
+.ayudagrid img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 20px;
+}
+
+.ayudagrid ul li{
+    color: black;
+    display: grid; 
+    justify-content: baseline;
+    padding: 20px; 
+    font-size: 20px;
+    list-style: none;
+}
+.ayudagrid a{
+    text-decoration: none;
+}
+.ayudagrid ul li:hover{
+    color: red;
+}
+
+.ubicacion1{
+    display: flex;
+    justify-content: center;
+    margin-top: 2%;
+}
+.ubicacion1 iframe{
+    width: 1000px;
+}
