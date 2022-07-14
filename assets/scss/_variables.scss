@@ -1,0 +1,20 @@
+$justify:(
+    start:start,
+    center:center,
+    end:end,
+    around:space-around,
+    evenly:space-evenly,
+    between:space-between,
+);
+
+$colores:(
+    primario: rgb(29, 167, 202),
+    secundario: rgb(223, 17, 17),
+    terciario: rgb(94, 230, 67),
+);
+
+$btn:(
+    padding:10px 15px,
+    bordes:0,
+    radio:5px
+);

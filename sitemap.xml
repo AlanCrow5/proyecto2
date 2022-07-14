@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/AlanCrow5/proyecto2</loc>
+  <lastmod>2022-07-14T19:32:32+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/AlanCrow5/proyecto2/issues</loc>
+  <lastmod>2022-07-14T19:32:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/AlanCrow5/proyecto2/pulls</loc>
+  <lastmod>2022-07-14T19:32:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/AlanCrow5/proyecto2/actions</loc>
+  <lastmod>2022-07-14T19:32:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/AlanCrow5/proyecto2/projects?type=beta</loc>
+  <lastmod>2022-07-14T19:32:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/AlanCrow5/proyecto2/security</loc>
+  <lastmod>2022-07-14T19:32:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/AlanCrow5/proyecto2/blob/master/index.html</loc>
+  <lastmod>2022-07-14T19:32:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/AlanCrow5/proyecto2/releases</loc>
+  <lastmod>2022-07-14T19:32:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/AlanCrow5/proyecto2/labels</loc>
+  <lastmod>2022-07-14T19:32:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/AlanCrow5/proyecto2/milestones</loc>
+  <lastmod>2022-07-14T19:32:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/AlanCrow5/proyecto2/compare</loc>
+  <lastmod>2022-07-14T19:32:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/AlanCrow5/proyecto2/actions/workflows/pages/pages-build-deployment</loc>
+  <lastmod>2022-07-14T19:32:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/AlanCrow5/proyecto2/actions/runs/2593665076</loc>
+  <lastmod>2022-07-14T19:32:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/AlanCrow5/proyecto2/actions/runs/2579744086</loc>
+  <lastmod>2022-07-14T19:32:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/AlanCrow5/proyecto2/projects?type=classic</loc>
+  <lastmod>2022-07-14T19:32:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/AlanCrow5/proyecto2/security/policy</loc>
+  <lastmod>2022-07-14T19:32:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/AlanCrow5/proyecto2/security/advisories</loc>
+  <lastmod>2022-07-14T19:32:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/AlanCrow5/proyecto2/blob/2f0dcee081ad9a9055153fd1a04b1529873856d1/index.html</loc>
+  <lastmod>2022-07-14T19:32:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/AlanCrow5/proyecto2/find/master</loc>
+  <lastmod>2022-07-14T19:32:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/AlanCrow5/proyecto2/labels?sort=name-asc</loc>
+  <lastmod>2022-07-14T19:32:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlanCrow5/proyecto2/labels?sort=name-desc</loc>
+  <lastmod>2022-07-14T19:32:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlanCrow5/proyecto2/labels?sort=count-desc</loc>
+  <lastmod>2022-07-14T19:32:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlanCrow5/proyecto2/labels?sort=count-asc</loc>
+  <lastmod>2022-07-14T19:32:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlanCrow5/proyecto2/labels/bug</loc>
+  <lastmod>2022-07-14T19:32:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlanCrow5/proyecto2/labels/documentation</loc>
+  <lastmod>2022-07-14T19:32:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlanCrow5/proyecto2/labels/duplicate</loc>
+  <lastmod>2022-07-14T19:32:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlanCrow5/proyecto2/labels/enhancement</loc>
+  <lastmod>2022-07-14T19:32:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlanCrow5/proyecto2/labels/good%20first%20issue</loc>
+  <lastmod>2022-07-14T19:32:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlanCrow5/proyecto2/labels/help%20wanted</loc>
+  <lastmod>2022-07-14T19:32:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlanCrow5/proyecto2/labels/invalid</loc>
+  <lastmod>2022-07-14T19:32:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlanCrow5/proyecto2/labels/question</loc>
+  <lastmod>2022-07-14T19:32:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlanCrow5/proyecto2/labels/wontfix</loc>
+  <lastmod>2022-07-14T19:32:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlanCrow5/proyecto2/milestones?state=open</loc>
+  <lastmod>2022-07-14T19:32:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlanCrow5/proyecto2/milestones?state=closed</loc>
+  <lastmod>2022-07-14T19:32:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlanCrow5/proyecto2/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2022-07-14T19:32:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlanCrow5/proyecto2/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2022-07-14T19:32:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlanCrow5/proyecto2/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2022-07-14T19:32:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlanCrow5/proyecto2/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2022-07-14T19:32:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlanCrow5/proyecto2/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2022-07-14T19:32:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlanCrow5/proyecto2/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2022-07-14T19:32:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlanCrow5/proyecto2/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2022-07-14T19:32:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlanCrow5/proyecto2/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2022-07-14T19:32:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlanCrow5/proyecto2/runs/7142149714?check_suite_focus=true</loc>
+  <lastmod>2022-07-14T19:32:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlanCrow5/proyecto2/runs/7142154572?check_suite_focus=true</loc>
+  <lastmod>2022-07-14T19:32:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlanCrow5/proyecto2/runs/7142154414?check_suite_focus=true</loc>
+  <lastmod>2022-07-14T19:32:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlanCrow5/proyecto2/commit/2f0dcee081ad9a9055153fd1a04b1529873856d1</loc>
+  <lastmod>2022-07-14T19:32:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlanCrow5/proyecto2/actions/runs/2593665076/usage</loc>
+  <lastmod>2022-07-14T19:32:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlanCrow5/proyecto2/runs/7102857048?check_suite_focus=true</loc>
+  <lastmod>2022-07-14T19:32:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlanCrow5/proyecto2/runs/7102865892?check_suite_focus=true</loc>
+  <lastmod>2022-07-14T19:32:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlanCrow5/proyecto2/runs/7102865993?check_suite_focus=true</loc>
+  <lastmod>2022-07-14T19:32:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlanCrow5/proyecto2/commit/1dcd44dacc6be01f2d0ebc071acfc254bfc23e2e</loc>
+  <lastmod>2022-07-14T19:32:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlanCrow5/proyecto2/actions/runs/2579744086/usage</loc>
+  <lastmod>2022-07-14T19:32:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlanCrow5/proyecto2/security/advisories?state=published</loc>
+  <lastmod>2022-07-14T19:32:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlanCrow5/proyecto2/find/2f0dcee081ad9a9055153fd1a04b1529873856d1</loc>
+  <lastmod>2022-07-14T19:32:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/AlanCrow5/proyecto2/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2022-07-14T19:32:32+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/AlanCrow5/proyecto2/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2022-07-14T19:32:32+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/AlanCrow5/proyecto2/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2022-07-14T19:32:32+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/AlanCrow5/proyecto2/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2022-07-14T19:32:32+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/AlanCrow5/proyecto2/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2022-07-14T19:32:32+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/AlanCrow5/proyecto2/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2022-07-14T19:32:32+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/AlanCrow5/proyecto2/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2022-07-14T19:32:32+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/AlanCrow5/proyecto2/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2022-07-14T19:32:32+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+
+
+</urlset>
