@@ -31,4 +31,24 @@ p {
 
 a.nav-link {
   color: white;
+}
+
+.btn, .btn-terciario, .btn-secundario, .btn-primario {
+  padding: 10px 15px;
+  border: 0;
+  width: 100px;
+  height: auto;
+  color: rgb(255, 255, 255);
+}
+
+.btn-primario {
+  background-color: rgb(29, 167, 202);
+}
+
+.btn-secundario {
+  background-color: rgb(223, 17, 17);
+}
+
+.btn-terciario {
+  background-color: rgb(94, 230, 67);
 }/*# sourceMappingURL=style.css.map */

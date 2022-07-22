@@ -33,3 +33,23 @@ p{
 a.nav-link{
     color: white;
 }
+
+@mixin propiedades($ancho,$alto,$colorLetra){
+    width: $ancho;
+    height: $alto;
+    color: $colorLetra;
+}
+
+.btn{
+    padding: map-get($btn, padding );
+    border: map-get($btn , bordes );
+    @include propiedades(100px,auto ,rgb(255, 255, 255) );
+}
+
+
+@each $key , $var in $colores {
+    .btn-#{$key}{
+        @extend .btn;
+        background-color: $var;
+    }
+}; 
