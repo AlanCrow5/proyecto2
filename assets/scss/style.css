@@ -108,6 +108,13 @@ label{
   grid-gap:30px;
   padding: 35px 0px;
 }
+h1{
+  text-align: center;
+}
+.p1{
+  text-align: center;
+}
+
 }
   
 /*# sourceMappingURL=style.css.map */
